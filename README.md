@@ -1,16 +1,37 @@
-# new_store_admin
+# Smart_Shop_Admin
 
 A new Flutter project.
 
-## Getting Started
+## OS
 
-This project is a starting point for a Flutter application.
+1. Android
+2. IOS
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Framework and language  
+
+1. Flutter 
+2. Dart
+
+## Libraries
+
+1. flutter_iconly: ^1.0.2
+2.  provider: ^6.0.5
+3.  card_swiper: ^3.0.1
+4.  shared_preferences: ^2.2.0
+5.  firebase_core: ^2.15.0
+6.  firebase_auth: ^4.7.2
+7.  fluttertoast: ^8.2.2
+8.  firebase_storage: ^11.2.5
+9.  cloud_firestore:
+10. image_picker: ^0.8.7+5
+11.  uuid: ^3.0.7
+12.  google_sign_in: ^6.1.4
+13.  dio: ^5.3.2
+14.  shimmer: ^3.0.0
+15.  dotted_border: ^2.0.0+3
+16.  flutter_stripe: ^9.4.0
+17.  flutter_paypal_checkout: ^1.0.1
+18.  fancy_shimmer_image: ^2.0.3
+
